@@ -1,0 +1,4478 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SymetricxSurvey",
+        "printedName": "SymetricxSurvey",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(activationCode:projectId:languageShortCode:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "SymetricxSurvey",
+                "printedName": "SymetricxSurveySDK.SymetricxSurvey",
+                "usr": "s:18SymetricxSurveySDK0aB0C"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:18SymetricxSurveySDK0aB0C14activationCode9projectId013languageShortE0ACSS_SiSStcfc",
+            "mangledName": "$s18SymetricxSurveySDK0aB0C14activationCode9projectId013languageShortE0ACSS_SiSStcfc",
+            "moduleName": "SymetricxSurveySDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "show",
+            "printedName": "show(delegate:surveyView:surveyId:processNo:processType:customerId:customerGuidId:mobilePhone:city:isTest:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "SymetricxSurveySDK.SymetricxSurveyViewModel?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SymetricxSurveyViewModel",
+                    "printedName": "SymetricxSurveySDK.SymetricxSurveyViewModel",
+                    "usr": "s:18SymetricxSurveySDK0aB9ViewModelC"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18SymetricxSurveySDK0aB0C4show8delegate10surveyView0F2Id9processNo0I4Type08customerH00l4GuidH011mobilePhone4city6isTestySo16UIViewControllerC_AA0abG5ModelCSgS2iSgSSSgAt3USbtF",
+            "mangledName": "$s18SymetricxSurveySDK0aB0C4show8delegate10surveyView0F2Id9processNo0I4Type08customerH00l4GuidH011mobilePhone4city6isTestySo16UIViewControllerC_AA0abG5ModelCSgS2iSgSSSgAt3USbtF",
+            "moduleName": "SymetricxSurveySDK",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:18SymetricxSurveySDK0aB0C",
+        "mangledName": "$s18SymetricxSurveySDK0aB0C",
+        "moduleName": "SymetricxSurveySDK",
+        "isOpen": true,
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SymetricxSurveyViewModel",
+        "printedName": "SymetricxSurveyViewModel",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "backgroundColor",
+            "printedName": "backgroundColor",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18SymetricxSurveySDK0aB9ViewModelC15backgroundColorSo7UIColorCSgvp",
+            "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC15backgroundColorSo7UIColorCSgvp",
+            "moduleName": "SymetricxSurveySDK",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18SymetricxSurveySDK0aB9ViewModelC15backgroundColorSo7UIColorCSgvg",
+                "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC15backgroundColorSo7UIColorCSgvg",
+                "moduleName": "SymetricxSurveySDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "navigationColor",
+            "printedName": "navigationColor",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18SymetricxSurveySDK0aB9ViewModelC15navigationColorSo7UIColorCSgvp",
+            "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC15navigationColorSo7UIColorCSgvp",
+            "moduleName": "SymetricxSurveySDK",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18SymetricxSurveySDK0aB9ViewModelC15navigationColorSo7UIColorCSgvg",
+                "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC15navigationColorSo7UIColorCSgvg",
+                "moduleName": "SymetricxSurveySDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "navigationTitle",
+            "printedName": "navigationTitle",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18SymetricxSurveySDK0aB9ViewModelC15navigationTitleSSSgvp",
+            "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC15navigationTitleSSSgvp",
+            "moduleName": "SymetricxSurveySDK",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18SymetricxSurveySDK0aB9ViewModelC15navigationTitleSSSgvg",
+                "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC15navigationTitleSSSgvg",
+                "moduleName": "SymetricxSurveySDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "navigationTitleColor",
+            "printedName": "navigationTitleColor",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18SymetricxSurveySDK0aB9ViewModelC20navigationTitleColorSo7UIColorCSgvp",
+            "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC20navigationTitleColorSo7UIColorCSgvp",
+            "moduleName": "SymetricxSurveySDK",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18SymetricxSurveySDK0aB9ViewModelC20navigationTitleColorSo7UIColorCSgvg",
+                "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC20navigationTitleColorSo7UIColorCSgvg",
+                "moduleName": "SymetricxSurveySDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "navigationTitleFont",
+            "printedName": "navigationTitleFont",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIFont?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIFont",
+                    "printedName": "UIKit.UIFont",
+                    "usr": "c:objc(cs)UIFont"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18SymetricxSurveySDK0aB9ViewModelC19navigationTitleFontSo6UIFontCSgvp",
+            "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC19navigationTitleFontSo6UIFontCSgvp",
+            "moduleName": "SymetricxSurveySDK",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIFont?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIFont",
+                        "printedName": "UIKit.UIFont",
+                        "usr": "c:objc(cs)UIFont"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18SymetricxSurveySDK0aB9ViewModelC19navigationTitleFontSo6UIFontCSgvg",
+                "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC19navigationTitleFontSo6UIFontCSgvg",
+                "moduleName": "SymetricxSurveySDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "closeButtonImage",
+            "printedName": "closeButtonImage",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIImage?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18SymetricxSurveySDK0aB9ViewModelC16closeButtonImageSo7UIImageCSgvp",
+            "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC16closeButtonImageSo7UIImageCSgvp",
+            "moduleName": "SymetricxSurveySDK",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIImage?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIImage",
+                        "printedName": "UIKit.UIImage",
+                        "usr": "c:objc(cs)UIImage"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18SymetricxSurveySDK0aB9ViewModelC16closeButtonImageSo7UIImageCSgvg",
+                "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC16closeButtonImageSo7UIImageCSgvg",
+                "moduleName": "SymetricxSurveySDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "stepTextColor",
+            "printedName": "stepTextColor",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18SymetricxSurveySDK0aB9ViewModelC13stepTextColorSo7UIColorCSgvp",
+            "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC13stepTextColorSo7UIColorCSgvp",
+            "moduleName": "SymetricxSurveySDK",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18SymetricxSurveySDK0aB9ViewModelC13stepTextColorSo7UIColorCSgvg",
+                "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC13stepTextColorSo7UIColorCSgvg",
+                "moduleName": "SymetricxSurveySDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "stepTextFont",
+            "printedName": "stepTextFont",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIFont?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIFont",
+                    "printedName": "UIKit.UIFont",
+                    "usr": "c:objc(cs)UIFont"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18SymetricxSurveySDK0aB9ViewModelC12stepTextFontSo6UIFontCSgvp",
+            "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC12stepTextFontSo6UIFontCSgvp",
+            "moduleName": "SymetricxSurveySDK",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIFont?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIFont",
+                        "printedName": "UIKit.UIFont",
+                        "usr": "c:objc(cs)UIFont"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18SymetricxSurveySDK0aB9ViewModelC12stepTextFontSo6UIFontCSgvg",
+                "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC12stepTextFontSo6UIFontCSgvg",
+                "moduleName": "SymetricxSurveySDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "questionTextColor",
+            "printedName": "questionTextColor",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18SymetricxSurveySDK0aB9ViewModelC17questionTextColorSo7UIColorCSgvp",
+            "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC17questionTextColorSo7UIColorCSgvp",
+            "moduleName": "SymetricxSurveySDK",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18SymetricxSurveySDK0aB9ViewModelC17questionTextColorSo7UIColorCSgvg",
+                "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC17questionTextColorSo7UIColorCSgvg",
+                "moduleName": "SymetricxSurveySDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "questionTextFont",
+            "printedName": "questionTextFont",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIFont?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIFont",
+                    "printedName": "UIKit.UIFont",
+                    "usr": "c:objc(cs)UIFont"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18SymetricxSurveySDK0aB9ViewModelC16questionTextFontSo6UIFontCSgvp",
+            "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC16questionTextFontSo6UIFontCSgvp",
+            "moduleName": "SymetricxSurveySDK",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIFont?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIFont",
+                        "printedName": "UIKit.UIFont",
+                        "usr": "c:objc(cs)UIFont"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18SymetricxSurveySDK0aB9ViewModelC16questionTextFontSo6UIFontCSgvg",
+                "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC16questionTextFontSo6UIFontCSgvg",
+                "moduleName": "SymetricxSurveySDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "previousButtonTitle",
+            "printedName": "previousButtonTitle",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18SymetricxSurveySDK0aB9ViewModelC19previousButtonTitleSSSgvp",
+            "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC19previousButtonTitleSSSgvp",
+            "moduleName": "SymetricxSurveySDK",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18SymetricxSurveySDK0aB9ViewModelC19previousButtonTitleSSSgvg",
+                "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC19previousButtonTitleSSSgvg",
+                "moduleName": "SymetricxSurveySDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "previousButtonTitleColor",
+            "printedName": "previousButtonTitleColor",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18SymetricxSurveySDK0aB9ViewModelC24previousButtonTitleColorSo7UIColorCSgvp",
+            "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC24previousButtonTitleColorSo7UIColorCSgvp",
+            "moduleName": "SymetricxSurveySDK",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18SymetricxSurveySDK0aB9ViewModelC24previousButtonTitleColorSo7UIColorCSgvg",
+                "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC24previousButtonTitleColorSo7UIColorCSgvg",
+                "moduleName": "SymetricxSurveySDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "previousButtonTitleFont",
+            "printedName": "previousButtonTitleFont",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIFont?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIFont",
+                    "printedName": "UIKit.UIFont",
+                    "usr": "c:objc(cs)UIFont"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18SymetricxSurveySDK0aB9ViewModelC23previousButtonTitleFontSo6UIFontCSgvp",
+            "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC23previousButtonTitleFontSo6UIFontCSgvp",
+            "moduleName": "SymetricxSurveySDK",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIFont?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIFont",
+                        "printedName": "UIKit.UIFont",
+                        "usr": "c:objc(cs)UIFont"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18SymetricxSurveySDK0aB9ViewModelC23previousButtonTitleFontSo6UIFontCSgvg",
+                "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC23previousButtonTitleFontSo6UIFontCSgvg",
+                "moduleName": "SymetricxSurveySDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "previousButtonImage",
+            "printedName": "previousButtonImage",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIImage?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18SymetricxSurveySDK0aB9ViewModelC19previousButtonImageSo7UIImageCSgvp",
+            "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC19previousButtonImageSo7UIImageCSgvp",
+            "moduleName": "SymetricxSurveySDK",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIImage?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIImage",
+                        "printedName": "UIKit.UIImage",
+                        "usr": "c:objc(cs)UIImage"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18SymetricxSurveySDK0aB9ViewModelC19previousButtonImageSo7UIImageCSgvg",
+                "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC19previousButtonImageSo7UIImageCSgvg",
+                "moduleName": "SymetricxSurveySDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "nextButtonTitle",
+            "printedName": "nextButtonTitle",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18SymetricxSurveySDK0aB9ViewModelC15nextButtonTitleSSSgvp",
+            "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC15nextButtonTitleSSSgvp",
+            "moduleName": "SymetricxSurveySDK",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18SymetricxSurveySDK0aB9ViewModelC15nextButtonTitleSSSgvg",
+                "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC15nextButtonTitleSSSgvg",
+                "moduleName": "SymetricxSurveySDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "nextButtonTitleColor",
+            "printedName": "nextButtonTitleColor",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18SymetricxSurveySDK0aB9ViewModelC20nextButtonTitleColorSo7UIColorCSgvp",
+            "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC20nextButtonTitleColorSo7UIColorCSgvp",
+            "moduleName": "SymetricxSurveySDK",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18SymetricxSurveySDK0aB9ViewModelC20nextButtonTitleColorSo7UIColorCSgvg",
+                "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC20nextButtonTitleColorSo7UIColorCSgvg",
+                "moduleName": "SymetricxSurveySDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "nextButtonTitleFont",
+            "printedName": "nextButtonTitleFont",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIFont?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIFont",
+                    "printedName": "UIKit.UIFont",
+                    "usr": "c:objc(cs)UIFont"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18SymetricxSurveySDK0aB9ViewModelC19nextButtonTitleFontSo6UIFontCSgvp",
+            "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC19nextButtonTitleFontSo6UIFontCSgvp",
+            "moduleName": "SymetricxSurveySDK",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIFont?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIFont",
+                        "printedName": "UIKit.UIFont",
+                        "usr": "c:objc(cs)UIFont"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18SymetricxSurveySDK0aB9ViewModelC19nextButtonTitleFontSo6UIFontCSgvg",
+                "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC19nextButtonTitleFontSo6UIFontCSgvg",
+                "moduleName": "SymetricxSurveySDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "nextButtonImage",
+            "printedName": "nextButtonImage",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIImage?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18SymetricxSurveySDK0aB9ViewModelC15nextButtonImageSo7UIImageCSgvp",
+            "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC15nextButtonImageSo7UIImageCSgvp",
+            "moduleName": "SymetricxSurveySDK",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIImage?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIImage",
+                        "printedName": "UIKit.UIImage",
+                        "usr": "c:objc(cs)UIImage"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18SymetricxSurveySDK0aB9ViewModelC15nextButtonImageSo7UIImageCSgvg",
+                "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC15nextButtonImageSo7UIImageCSgvg",
+                "moduleName": "SymetricxSurveySDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "completeButtonTitle",
+            "printedName": "completeButtonTitle",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18SymetricxSurveySDK0aB9ViewModelC19completeButtonTitleSSSgvp",
+            "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC19completeButtonTitleSSSgvp",
+            "moduleName": "SymetricxSurveySDK",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18SymetricxSurveySDK0aB9ViewModelC19completeButtonTitleSSSgvg",
+                "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC19completeButtonTitleSSSgvg",
+                "moduleName": "SymetricxSurveySDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "completeButtonTitleColor",
+            "printedName": "completeButtonTitleColor",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18SymetricxSurveySDK0aB9ViewModelC24completeButtonTitleColorSo7UIColorCSgvp",
+            "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC24completeButtonTitleColorSo7UIColorCSgvp",
+            "moduleName": "SymetricxSurveySDK",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18SymetricxSurveySDK0aB9ViewModelC24completeButtonTitleColorSo7UIColorCSgvg",
+                "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC24completeButtonTitleColorSo7UIColorCSgvg",
+                "moduleName": "SymetricxSurveySDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "completeButtonTitleFont",
+            "printedName": "completeButtonTitleFont",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIFont?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIFont",
+                    "printedName": "UIKit.UIFont",
+                    "usr": "c:objc(cs)UIFont"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18SymetricxSurveySDK0aB9ViewModelC23completeButtonTitleFontSo6UIFontCSgvp",
+            "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC23completeButtonTitleFontSo6UIFontCSgvp",
+            "moduleName": "SymetricxSurveySDK",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIFont?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIFont",
+                        "printedName": "UIKit.UIFont",
+                        "usr": "c:objc(cs)UIFont"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18SymetricxSurveySDK0aB9ViewModelC23completeButtonTitleFontSo6UIFontCSgvg",
+                "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC23completeButtonTitleFontSo6UIFontCSgvg",
+                "moduleName": "SymetricxSurveySDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "completeButtonImage",
+            "printedName": "completeButtonImage",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIImage?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18SymetricxSurveySDK0aB9ViewModelC19completeButtonImageSo7UIImageCSgvp",
+            "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC19completeButtonImageSo7UIImageCSgvp",
+            "moduleName": "SymetricxSurveySDK",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIImage?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIImage",
+                        "printedName": "UIKit.UIImage",
+                        "usr": "c:objc(cs)UIImage"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18SymetricxSurveySDK0aB9ViewModelC19completeButtonImageSo7UIImageCSgvg",
+                "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC19completeButtonImageSo7UIImageCSgvg",
+                "moduleName": "SymetricxSurveySDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(backgroundColor:navigationColor:navigationTitle:navigationTitleColor:navigationTitleFont:closeButtonImage:stepTextColor:stepTextFont:questionTextColor:questionTextFont:previousButtonTitle:previousButtonTitleColor:previousButtonTitleFont:previousButtonImage:nextButtonTitle:nextButtonTitleColor:nextButtonTitleFont:nextButtonImage:completeButtonTitle:completeButtonTitleColor:completeButtonTitleFont:completeButtonImage:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "SymetricxSurveyViewModel",
+                "printedName": "SymetricxSurveySDK.SymetricxSurveyViewModel",
+                "usr": "s:18SymetricxSurveySDK0aB9ViewModelC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIFont?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIFont",
+                    "printedName": "UIKit.UIFont",
+                    "usr": "c:objc(cs)UIFont"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIImage?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIFont?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIFont",
+                    "printedName": "UIKit.UIFont",
+                    "usr": "c:objc(cs)UIFont"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIFont?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIFont",
+                    "printedName": "UIKit.UIFont",
+                    "usr": "c:objc(cs)UIFont"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIFont?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIFont",
+                    "printedName": "UIKit.UIFont",
+                    "usr": "c:objc(cs)UIFont"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIImage?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIFont?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIFont",
+                    "printedName": "UIKit.UIFont",
+                    "usr": "c:objc(cs)UIFont"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIImage?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIFont?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIFont",
+                    "printedName": "UIKit.UIFont",
+                    "usr": "c:objc(cs)UIFont"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIImage?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:18SymetricxSurveySDK0aB9ViewModelC15backgroundColor010navigationG00H5Title0hiG00hI4Font16closeButtonImage08stepTextG00noJ008questionoG00poJ008previouslI00qliG00qliJ00qlM004nextlI00rliG00rliJ00rlM008completelI00sliG00sliJ00slM0ACSo7UIColorCSg_A0_SSSgA0_So6UIFontCSgSo7UIImageCSgA0_A4_A0_A4_A1_A0_A4_A7_A1_A0_A4_A7_A1_A0_A4_A7_tcfc",
+            "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC15backgroundColor010navigationG00H5Title0hiG00hI4Font16closeButtonImage08stepTextG00noJ008questionoG00poJ008previouslI00qliG00qliJ00qlM004nextlI00rliG00rliJ00rlM008completelI00sliG00sliJ00slM0ACSo7UIColorCSg_A0_SSSgA0_So6UIFontCSgSo7UIImageCSgA0_A4_A0_A4_A1_A0_A4_A7_A1_A0_A4_A7_A1_A0_A4_A7_tcfc",
+            "moduleName": "SymetricxSurveySDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:18SymetricxSurveySDK0aB9ViewModelC",
+        "mangledName": "$s18SymetricxSurveySDK0aB9ViewModelC",
+        "moduleName": "SymetricxSurveySDK",
+        "isOpen": true,
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "IQKeyboardManagerSwift",
+        "printedName": "IQKeyboardManagerSwift",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Alamofire",
+        "printedName": "Alamofire",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Alamofire",
+        "printedName": "Alamofire",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SymetricxSurveySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/EmotionView\/EmotionView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1365,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/EmotionView\/EmotionView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1405,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/EmotionView\/EmotionView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1443,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/EmotionView\/EmotionView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1483,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/EmotionView\/EmotionView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1521,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/EmotionView\/EmotionView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1576,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/EmotionView\/EmotionView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1611,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/EmotionView\/EmotionView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1646,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/EmotionView\/EmotionView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1686,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/EmotionView\/EmotionView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1724,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/EmotionView\/EmotionView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1779,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/EmotionView\/EmotionView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1814,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/EmotionView\/EmotionView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1849,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/EmotionView\/EmotionView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1884,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/EmotionView\/EmotionView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1919,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/EmotionView\/EmotionView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2487,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/EmotionView\/EmotionView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2633,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Extensions\/DateFormatter+Extension.swift",
+      "kind": "StringLiteral",
+      "offset": 291,
+      "length": 7,
+      "value": "\"HH:mm\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Extensions\/DateFormatter+Extension.swift",
+      "kind": "StringLiteral",
+      "offset": 470,
+      "length": 12,
+      "value": "\"dd.MM.yyyy\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Extensions\/DateFormatter+Extension.swift",
+      "kind": "StringLiteral",
+      "offset": 667,
+      "length": 24,
+      "value": "\"yyyy-MM-dd'T'HH:mm:ssZ\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TrueFalseView\/TrueFalseView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1168,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TrueFalseView\/TrueFalseView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1264,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TrueFalseView\/TrueFalseView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1352,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TrueFalseView\/TrueFalseView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1447,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TrueFalseView\/TrueFalseView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1562,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TrueFalseView\/TrueFalseView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1600,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TrueFalseView\/TrueFalseView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1660,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TrueFalseView\/TrueFalseView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1767,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TrueFalseView\/TrueFalseView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1806,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TrueFalseView\/TrueFalseView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1865,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Extensions\/StoryboardLoadable.swift",
+      "kind": "StringLiteral",
+      "offset": 422,
+      "length": 16,
+      "value": "\"ViewController\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Extensions\/StoryboardLoadable.swift",
+      "kind": "StringLiteral",
+      "offset": 446,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Extensions\/StoryboardLoadable.swift",
+      "kind": "StringLiteral",
+      "offset": 578,
+      "length": 16,
+      "value": "\"ViewController\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Extensions\/StoryboardLoadable.swift",
+      "kind": "StringLiteral",
+      "offset": 602,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Extensions\/StoryboardLoadable.swift",
+      "kind": "StringLiteral",
+      "offset": 795,
+      "length": 21,
+      "value": "\"TableViewController\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Extensions\/StoryboardLoadable.swift",
+      "kind": "StringLiteral",
+      "offset": 824,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Extensions\/StoryboardLoadable.swift",
+      "kind": "StringLiteral",
+      "offset": 956,
+      "length": 21,
+      "value": "\"TableViewController\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Extensions\/StoryboardLoadable.swift",
+      "kind": "StringLiteral",
+      "offset": 985,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/YesNoView\/YesNoView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1132,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/YesNoView\/YesNoView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1222,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/YesNoView\/YesNoView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1309,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/YesNoView\/YesNoView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1402,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/YesNoView\/YesNoView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1515,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/YesNoView\/YesNoView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1550,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/YesNoView\/YesNoView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1606,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/YesNoView\/YesNoView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1709,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/YesNoView\/YesNoView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1745,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/YesNoView\/YesNoView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1800,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/Scale7View\/Scale7View.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1289,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/Scale7View\/Scale7View.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1318,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/Scale7View\/Scale7View.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1347,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/Scale7View\/Scale7View.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1376,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/Scale7View\/Scale7View.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1405,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/Scale7View\/Scale7View.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1434,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/Scale7View\/Scale7View.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1463,
+      "length": 1,
+      "value": "7"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/Scale7View\/Scale7View.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2137,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/Scale7View\/Scale7View.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2283,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/ChoiceItemView\/ChoiceItemView.swift",
+      "kind": "StringLiteral",
+      "offset": 1620,
+      "length": 12,
+      "value": "\"icon_radio\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/ChoiceItemView\/ChoiceItemView.swift",
+      "kind": "StringLiteral",
+      "offset": 1752,
+      "length": 21,
+      "value": "\"icon_radio_selected\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/ChoiceItemView\/ChoiceItemView.swift",
+      "kind": "StringLiteral",
+      "offset": 1898,
+      "length": 21,
+      "value": "\"icon_radio_selected\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/ChoiceItemView\/ChoiceItemView.swift",
+      "kind": "StringLiteral",
+      "offset": 2065,
+      "length": 15,
+      "value": "\"icon_checkbox\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/ChoiceItemView\/ChoiceItemView.swift",
+      "kind": "StringLiteral",
+      "offset": 2200,
+      "length": 23,
+      "value": "\"icon_checkbox_checked\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/ChoiceItemView\/ChoiceItemView.swift",
+      "kind": "StringLiteral",
+      "offset": 2348,
+      "length": 23,
+      "value": "\"icon_checkbox_checked\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/ChoiceItemView\/ChoiceItemView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2754,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextFieldView\/TextFieldView.swift",
+      "kind": "StringLiteral",
+      "offset": 1152,
+      "length": 8,
+      "value": "\"0\/1024\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextFieldView\/TextFieldView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1354,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextFieldView\/TextFieldView.swift",
+      "kind": "StringLiteral",
+      "offset": 1452,
+      "length": 3,
+      "value": "\"0\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextFieldView\/TextFieldView.swift",
+      "kind": "StringLiteral",
+      "offset": 1465,
+      "length": 3,
+      "value": "\"9\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextFieldView\/TextFieldView.swift",
+      "kind": "StringLiteral",
+      "offset": 1523,
+      "length": 3,
+      "value": "\"A\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextFieldView\/TextFieldView.swift",
+      "kind": "StringLiteral",
+      "offset": 1536,
+      "length": 3,
+      "value": "\"S\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextFieldView\/TextFieldView.swift",
+      "kind": "StringLiteral",
+      "offset": 1549,
+      "length": 3,
+      "value": "\"U\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextFieldView\/TextFieldView.swift",
+      "kind": "StringLiteral",
+      "offset": 1562,
+      "length": 3,
+      "value": "\"L\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextFieldView\/TextFieldView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1962,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextFieldView\/TextFieldView.swift",
+      "kind": "StringLiteral",
+      "offset": 2263,
+      "length": 36,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextFieldView\/TextFieldView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2291,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextFieldView\/TextFieldView.swift",
+      "kind": "StringLiteral",
+      "offset": 2293,
+      "length": 1,
+      "value": "\"\/1024\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextFieldView\/TextFieldView.swift",
+      "kind": "StringLiteral",
+      "offset": 2511,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextFieldView\/TextFieldView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2539,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextFieldView\/TextFieldView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2599,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextFieldView\/TextFieldView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2726,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextFieldView\/TextFieldView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2757,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextFieldView\/TextFieldView.swift",
+      "kind": "StringLiteral",
+      "offset": 2874,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextFieldView\/TextFieldView.swift",
+      "kind": "StringLiteral",
+      "offset": 2938,
+      "length": 3,
+      "value": "\"A\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextFieldView\/TextFieldView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3096,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextFieldView\/TextFieldView.swift",
+      "kind": "StringLiteral",
+      "offset": 3141,
+      "length": 3,
+      "value": "\"S\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextFieldView\/TextFieldView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3273,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextFieldView\/TextFieldView.swift",
+      "kind": "StringLiteral",
+      "offset": 3318,
+      "length": 3,
+      "value": "\"U\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextFieldView\/TextFieldView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3438,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextFieldView\/TextFieldView.swift",
+      "kind": "StringLiteral",
+      "offset": 3483,
+      "length": 3,
+      "value": "\"L\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextFieldView\/TextFieldView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3603,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextFieldView\/TextFieldView.swift",
+      "kind": "StringLiteral",
+      "offset": 3648,
+      "length": 3,
+      "value": "\"0\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextFieldView\/TextFieldView.swift",
+      "kind": "StringLiteral",
+      "offset": 3663,
+      "length": 3,
+      "value": "\"9\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextFieldView\/TextFieldView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3796,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextFieldView\/TextFieldView.swift",
+      "kind": "StringLiteral",
+      "offset": 3875,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextFieldView\/TextFieldView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4040,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextAreaView\/TextAreaView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1010,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextAreaView\/TextAreaView.swift",
+      "kind": "StringLiteral",
+      "offset": 1152,
+      "length": 8,
+      "value": "\"0\/4096\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextAreaView\/TextAreaView.swift",
+      "kind": "StringLiteral",
+      "offset": 1432,
+      "length": 29,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextAreaView\/TextAreaView.swift",
+      "kind": "StringLiteral",
+      "offset": 1455,
+      "length": 1,
+      "value": "\"\/4096\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextAreaView\/TextAreaView.swift",
+      "kind": "StringLiteral",
+      "offset": 1605,
+      "length": 4,
+      "value": "\"\n\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextAreaView\/TextAreaView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1676,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/TextAreaView\/TextAreaView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1718,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SymetricxSurvey.swift",
+      "kind": "BooleanLiteral",
+      "offset": 866,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SymetricxSurvey.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1599,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/DateView\/DateView.swift",
+      "kind": "FloatLiteral",
+      "offset": 1126,
+      "length": 3,
+      "value": "0.6"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/DateView\/DateView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1163,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/DateView\/DateView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2012,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/DateView\/DateView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2106,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/DateView\/DateView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2195,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/DateView\/DateView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2292,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1358,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1775,
+      "length": 39,
+      "value": "\"init(coder:) has not been implemented\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1952,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2010,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 2261,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 2273,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 2369,
+      "length": 3,
+      "value": "0.6"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2425,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 2647,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2879,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2983,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3090,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3342,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3892,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4025,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 5773,
+      "length": 8,
+      "value": "\"Survey\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5969,
+      "length": 2,
+      "value": "17"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 6076,
+      "length": 17,
+      "value": "\"ic_arrow_cancel\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 6224,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6398,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6436,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6602,
+      "length": 2,
+      "value": "15"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6643,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6681,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 6853,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7031,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 7130,
+      "length": 19,
+      "value": "\"ic_arrow_previous\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 7387,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7549,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 7640,
+      "length": 15,
+      "value": "\"ic_arrow_next\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7818,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 7884,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8054,
+      "length": 2,
+      "value": "15"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 8149,
+      "length": 19,
+      "value": "\"ic_arrow_complete\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8361,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8408,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8567,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8773,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 8817,
+      "length": 43,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8835,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 8837,
+      "length": 1,
+      "value": "\"\/\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 8859,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 9979,
+      "length": 3,
+      "value": "\"1\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 10570,
+      "length": 3,
+      "value": "\"1\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 15316,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 15483,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 15896,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 16064,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 20517,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 191,
+      "length": 24,
+      "value": "\"SymetricxSurveySDK.SurveyMainViewController\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 20686,
+      "length": 3,
+      "value": "\"1\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 20692,
+      "length": 3,
+      "value": "\"0\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 20774,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 20940,
+      "length": 3,
+      "value": "\"1\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 20946,
+      "length": 3,
+      "value": "\"0\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 21028,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 21287,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 21534,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 21800,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 22055,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 22308,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 22561,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 22814,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/SurveyMain\/SurveyMainViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 23065,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/RateView\/RateView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1123,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/RateView\/RateView.swift",
+      "kind": "StringLiteral",
+      "offset": 1156,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/RateView\/RateView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1569,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/RateView\/RateView.swift",
+      "kind": "StringLiteral",
+      "offset": 1600,
+      "length": 33,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/RateView\/RateView.swift",
+      "kind": "StringLiteral",
+      "offset": 1632,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/RateView\/RateView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1672,
+      "length": 3,
+      "value": "100"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/RateView\/RateView.swift",
+      "kind": "StringLiteral",
+      "offset": 1706,
+      "length": 33,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/RateView\/RateView.swift",
+      "kind": "StringLiteral",
+      "offset": 1738,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/Scale6View\/Scale6View.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1234,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/Scale6View\/Scale6View.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1263,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/Scale6View\/Scale6View.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1292,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/Scale6View\/Scale6View.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1321,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/Scale6View\/Scale6View.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1350,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/Scale6View\/Scale6View.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1379,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/Scale6View\/Scale6View.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1981,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/Scale6View\/Scale6View.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2127,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Extensions\/Array+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1053,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/PersonView\/PersonView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1523,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/PersonView\/PersonView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1553,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/PersonView\/PersonView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1583,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/PersonView\/PersonView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1613,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/PersonView\/PersonView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1643,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/PersonView\/PersonView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1673,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/PersonView\/PersonView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1703,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/PersonView\/PersonView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1733,
+      "length": 1,
+      "value": "7"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/PersonView\/PersonView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1763,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/PersonView\/PersonView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1793,
+      "length": 1,
+      "value": "9"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/PersonView\/PersonView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1824,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/PersonView\/PersonView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2811,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/PersonView\/PersonView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2957,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/Scale5View\/Scale5View.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1179,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/Scale5View\/Scale5View.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1208,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/Scale5View\/Scale5View.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1237,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/Scale5View\/Scale5View.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1266,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/Scale5View\/Scale5View.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1295,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/Scale5View\/Scale5View.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1825,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/Scale5View\/Scale5View.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1971,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Extensions\/Decodable+Extension.swift",
+      "kind": "StringLiteral",
+      "offset": 233,
+      "length": 6,
+      "value": "\"json\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Extensions\/UIStackView+Extension.swift",
+      "kind": "Array",
+      "offset": 242,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/NetworkManager\/Provider\/SymetricxAPIProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1073,
+      "length": 3,
+      "value": "200"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/NetworkManager\/Provider\/SymetricxAPIProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1079,
+      "length": 3,
+      "value": "400"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/NetworkManager\/Provider\/SymetricxAPIProvider.swift",
+      "kind": "Array",
+      "offset": 1106,
+      "length": 20,
+      "value": "[\"application\/json\"]"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/NetworkManager\/Provider\/SymetricxAPIProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 2339,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/MultiChoiceView\/MultiChoiceView.swift",
+      "kind": "Array",
+      "offset": 482,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/MultiChoiceView\/MultiChoiceView.swift",
+      "kind": "Array",
+      "offset": 524,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/MultiChoiceView\/MultiChoiceView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 648,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/MultiChoiceView\/MultiChoiceView.swift",
+      "kind": "StringLiteral",
+      "offset": 1430,
+      "length": 3,
+      "value": "\",\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/MultiChoiceView\/MultiChoiceView.swift",
+      "kind": "Array",
+      "offset": 1509,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/MultiChoiceView\/MultiChoiceView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2160,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/MultiChoiceView\/MultiChoiceView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2409,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/MultiChoiceView\/MultiChoiceView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2509,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/MultiChoiceView\/MultiChoiceView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2603,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/MultiChoiceView\/MultiChoiceView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2692,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/MultiChoiceView\/MultiChoiceView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2789,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/MultiChoiceView\/MultiChoiceView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2985,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/MultiChoiceView\/MultiChoiceView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3011,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/MultiChoiceView\/MultiChoiceView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3407,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/MultiChoiceView\/MultiChoiceView.swift",
+      "kind": "StringLiteral",
+      "offset": 3534,
+      "length": 3,
+      "value": "\",\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/SingleChoiceView\/SingleChoiceView.swift",
+      "kind": "Array",
+      "offset": 483,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/SingleChoiceView\/SingleChoiceView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1754,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/SingleChoiceView\/SingleChoiceView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1848,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/SingleChoiceView\/SingleChoiceView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1937,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/SingleChoiceView\/SingleChoiceView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2034,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/GenderView\/GenderView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 574,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/GenderView\/GenderView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 596,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/GenderView\/GenderView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 574,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/GenderView\/GenderView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 596,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/GenderView\/GenderView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 574,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/GenderView\/GenderView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 596,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/GenderView\/GenderView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1277,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/GenderView\/GenderView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1375,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/GenderView\/GenderView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1463,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/GenderView\/GenderView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1558,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/GenderView\/GenderView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1673,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/GenderView\/GenderView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1712,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/GenderView\/GenderView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1876,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/GenderView\/GenderView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1916,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Extensions\/UIViewController+Extension.swift",
+      "kind": "BooleanLiteral",
+      "offset": 561,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Extensions\/UIViewController+Extension.swift",
+      "kind": "BooleanLiteral",
+      "offset": 676,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/ScaleView\/ScaleView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1577,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/ScaleView\/ScaleView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1606,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/ScaleView\/ScaleView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1635,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/ScaleView\/ScaleView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1664,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/ScaleView\/ScaleView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1693,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/ScaleView\/ScaleView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1722,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/ScaleView\/ScaleView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1751,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/ScaleView\/ScaleView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1780,
+      "length": 1,
+      "value": "7"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/ScaleView\/ScaleView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1809,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/ScaleView\/ScaleView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1838,
+      "length": 1,
+      "value": "9"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/ScaleView\/ScaleView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1868,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/ScaleView\/ScaleView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2833,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/ScaleView\/ScaleView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2979,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/StarView\/StarView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1160,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/StarView\/StarView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1167,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/StarView\/StarView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1263,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/StarView\/StarView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1270,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/StarView\/StarView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1366,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/StarView\/StarView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1373,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/StarView\/StarView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1469,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/StarView\/StarView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1476,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/StarView\/StarView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1572,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/StarView\/StarView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1579,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/StarView\/StarView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1698,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/StarView\/StarView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1726,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/StarView\/StarView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1754,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/StarView\/StarView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1782,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/StarView\/StarView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1810,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/StarView\/StarView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2020,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/Components\/StarView\/StarView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2166,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/NetworkManager\/Router\/SymetricxAPIRouter.swift",
+      "kind": "StringLiteral",
+      "offset": 590,
+      "length": 14,
+      "value": "\"GetQuestions\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/NetworkManager\/Router\/SymetricxAPIRouter.swift",
+      "kind": "StringLiteral",
+      "offset": 648,
+      "length": 22,
+      "value": "\"SingleQuestionAnswer\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/NetworkManager\/Router\/SymetricxAPIRouter.swift",
+      "kind": "StringLiteral",
+      "offset": 768,
+      "length": 39,
+      "value": "\"https:\/\/survey.symetricx.com\/api\/SDK\/\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/NetworkManager\/Router\/SymetricxAPIRouter.swift",
+      "kind": "StringLiteral",
+      "offset": 1776,
+      "length": 5,
+      "value": "\"*\/*\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/NetworkManager\/Router\/SymetricxAPIRouter.swift",
+      "kind": "StringLiteral",
+      "offset": 1803,
+      "length": 8,
+      "value": "\"Accept\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/NetworkManager\/Router\/SymetricxAPIRouter.swift",
+      "kind": "StringLiteral",
+      "offset": 1841,
+      "length": 19,
+      "value": "\"gzip, deflate, br\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/NetworkManager\/Router\/SymetricxAPIRouter.swift",
+      "kind": "StringLiteral",
+      "offset": 1882,
+      "length": 17,
+      "value": "\"Accept-Encoding\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/NetworkManager\/Router\/SymetricxAPIRouter.swift",
+      "kind": "StringLiteral",
+      "offset": 1929,
+      "length": 33,
+      "value": "\"application\/json; charset=utf-8\""
+    },
+    {
+      "filePath": "\/Users\/yaggoz\/Desktop\/SymetricxSurvey\/SymetricxSurveySDK\/SymetricxSurveySDK\/NetworkManager\/Router\/SymetricxAPIRouter.swift",
+      "kind": "StringLiteral",
+      "offset": 1984,
+      "length": 14,
+      "value": "\"Content-Type\""
+    }
+  ]
+}

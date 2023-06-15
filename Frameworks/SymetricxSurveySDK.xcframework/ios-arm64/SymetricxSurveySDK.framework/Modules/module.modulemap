@@ -1,0 +1,4 @@
+framework module SymetricxSurveySDK {
+  header "SymetricxSurveySDK-Swift.h"
+  requires objc
+}

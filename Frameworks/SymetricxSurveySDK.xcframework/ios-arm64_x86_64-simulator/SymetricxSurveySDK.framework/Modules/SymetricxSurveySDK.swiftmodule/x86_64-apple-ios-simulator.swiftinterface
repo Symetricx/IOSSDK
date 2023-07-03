@@ -9,32 +9,32 @@ import _Concurrency
 import _StringProcessing
 open class SymetricxSurvey {
   public init(activationCode: Swift.String, projectId: Swift.Int, languageShortCode: Swift.String)
-  open func show(delegate: UIKit.UIViewController, surveyView: SymetricxSurveySDK.SymetricxSurveyViewModel?, surveyId: Swift.Int, processNo: Swift.Int? = nil, processType: Swift.String? = nil, customerId: Swift.Int? = nil, customerGuidId: Swift.String? = nil, mobilePhone: Swift.String? = nil, city: Swift.String? = nil, isTest: Swift.Bool = false)
+  open func show(options: SymetricxSurveySDK.SymetricxSurveyOptions = SymetricxSurveyOptions(), surveyId: Swift.Int, processNo: Swift.Int? = nil, processType: Swift.String? = nil, customerId: Swift.Int? = nil, customerGuidId: Swift.String? = nil, mobilePhone: Swift.String? = nil, city: Swift.String? = nil, isTest: Swift.Bool = false)
   @objc deinit
 }
-open class SymetricxSurveyViewModel {
-  final public let backgroundColor: UIKit.UIColor?
-  final public let navigationColor: UIKit.UIColor?
-  final public let navigationTitle: Swift.String?
-  final public let navigationTitleColor: UIKit.UIColor?
-  final public let navigationTitleFont: UIKit.UIFont?
-  final public let closeButtonImage: UIKit.UIImage?
-  final public let stepTextColor: UIKit.UIColor?
-  final public let stepTextFont: UIKit.UIFont?
-  final public let questionTextColor: UIKit.UIColor?
-  final public let questionTextFont: UIKit.UIFont?
-  final public let previousButtonTitle: Swift.String?
-  final public let previousButtonTitleColor: UIKit.UIColor?
-  final public let previousButtonTitleFont: UIKit.UIFont?
-  final public let previousButtonImage: UIKit.UIImage?
-  final public let nextButtonTitle: Swift.String?
-  final public let nextButtonTitleColor: UIKit.UIColor?
-  final public let nextButtonTitleFont: UIKit.UIFont?
-  final public let nextButtonImage: UIKit.UIImage?
-  final public let completeButtonTitle: Swift.String?
-  final public let completeButtonTitleColor: UIKit.UIColor?
-  final public let completeButtonTitleFont: UIKit.UIFont?
-  final public let completeButtonImage: UIKit.UIImage?
-  public init(backgroundColor: UIKit.UIColor? = nil, navigationColor: UIKit.UIColor? = nil, navigationTitle: Swift.String? = nil, navigationTitleColor: UIKit.UIColor? = nil, navigationTitleFont: UIKit.UIFont? = nil, closeButtonImage: UIKit.UIImage? = nil, stepTextColor: UIKit.UIColor? = nil, stepTextFont: UIKit.UIFont? = nil, questionTextColor: UIKit.UIColor? = nil, questionTextFont: UIKit.UIFont? = nil, previousButtonTitle: Swift.String? = nil, previousButtonTitleColor: UIKit.UIColor? = nil, previousButtonTitleFont: UIKit.UIFont? = nil, previousButtonImage: UIKit.UIImage? = nil, nextButtonTitle: Swift.String? = nil, nextButtonTitleColor: UIKit.UIColor? = nil, nextButtonTitleFont: UIKit.UIFont? = nil, nextButtonImage: UIKit.UIImage? = nil, completeButtonTitle: Swift.String? = nil, completeButtonTitleColor: UIKit.UIColor? = nil, completeButtonTitleFont: UIKit.UIFont? = nil, completeButtonImage: UIKit.UIImage? = nil)
+public class SymetricxSurveyOptions {
+  public var backgroundColor: UIKit.UIColor
+  public var navigationColor: UIKit.UIColor
+  public var navigationTitle: Swift.String
+  public var navigationTitleColor: UIKit.UIColor
+  public var navigationTitleFont: UIKit.UIFont
+  public var closeButtonImage: UIKit.UIImage?
+  public var stepTextColor: UIKit.UIColor
+  public var stepTextFont: UIKit.UIFont
+  public var questionTextColor: UIKit.UIColor
+  public var questionTextFont: UIKit.UIFont
+  public var previousButtonTitle: Swift.String
+  public var previousButtonTitleColor: UIKit.UIColor
+  public var previousButtonTitleFont: UIKit.UIFont
+  public var previousButtonImage: UIKit.UIImage?
+  public var nextButtonTitle: Swift.String
+  public var nextButtonTitleColor: UIKit.UIColor
+  public var nextButtonTitleFont: UIKit.UIFont
+  public var nextButtonImage: UIKit.UIImage?
+  public var completeButtonTitle: Swift.String
+  public var completeButtonTitleColor: UIKit.UIColor
+  public var completeButtonTitleFont: UIKit.UIFont
+  public var completeButtonImage: UIKit.UIImage?
+  public init()
   @objc deinit
 }

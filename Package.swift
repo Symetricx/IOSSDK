@@ -9,8 +9,8 @@ let package = Package(
     products: [
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
-            name: "SymetricxSurveyPackage",
-            targets: ["SymetricxSurveyPackage"]),
+            name: "SymetricxSurveySDK",
+            targets: ["SymetricxSurveySDK"]),
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
@@ -21,12 +21,8 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "SymetricxSurveySDK",
-            path: "Frameworks/SymetricxSurveySDK.xcframework"),
-        .target(
-            name: "SymetricxSurveyPackage",
-            dependencies: [
-                .target(name: "SymetricxSurveySDK", condition: .when(platforms: [.iOS]))
-            ]),
+            path: "Frameworks/SymetricxSurveySDK.xcframework"
+        ),
     ],
     swiftLanguageVersions: [.v5]
 )
